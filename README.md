@@ -300,6 +300,7 @@ $ make test
  * [cacheman-redis](https://github.com/cayasso/cacheman-redis)
  * [cacheman-mongo](https://github.com/cayasso/cacheman-mongo)
  * [cacheman-file](https://github.com/taronfoxworth/cacheman-file)
+ * [cacheman-s3](https://github.com/dragonxsx/cacheman-s3)
 
 ## Credits
 
